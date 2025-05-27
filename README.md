@@ -21,6 +21,7 @@ A RESTful API for managing books and user reviews. Includes features like authen
 ```bash
 git clone https://github.com/Faisal3347/billeasy.git
 cd billeasy
+npm install
 
 ##Curl for Registration
 curl -X POST http://localhost:3000/api/register \
